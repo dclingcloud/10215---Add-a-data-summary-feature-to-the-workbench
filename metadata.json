@@ -1,0 +1,6 @@
+{
+  "name": "智溯 - 交易监控工作台",
+  "description": "网络流量分析与交易监控工作台界面复刻",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
